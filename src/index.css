@@ -15,9 +15,10 @@
 }
 
 body {
-  background: rgb(231, 231, 231);
+  background:honeydew;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   font-size: 18px;
+  text-align: center;
 }
 
 button,
